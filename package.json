@@ -1,0 +1,24 @@
+{
+  "name": "Era",
+  "version": "1.0.71",
+  "description": "An all-new product to use Era services.",
+  "main": "./index.js",
+  "author": "AidasP#9094",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^7.58.1",
+    "@sentry/webpack-plugin": "^2.5.0",
+    "async": "^3.2.4",
+    "axios": "^1.4.0",
+    "chokidar": "^3.5.3",
+    "crypto": "^1.0.1",
+    "discord-rich-presence": "^0.0.8",
+    "dotenv": "^16.0.3",
+    "electron-log": "^5.0.0-beta.16",
+    "electron-updater": "^5.3.0",
+    "fast-array-diff": "^1.1.0",
+    "node-downloader-helper": "^2.1.7",
+    "node-unrar-js": "^2.0.0",
+    "webpack-obfuscator": "^3.5.1"
+  }
+}
